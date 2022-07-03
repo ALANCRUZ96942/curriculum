@@ -7,18 +7,22 @@
     margin: 0;
 }
 .navbar{
+    
+    padding: 1%;
+    position: fixed;
     width: 100%;
-    overflow: auto;
-    padding: 0;
-    margin: 0;
+    top: 0;
+    left: 0;
     background-color: #5E96AB;
 }
 .navbar > h2{
+    text-align: center;
     padding: 0;
     margin: 0;
    color: #ffffff;
 }
 .center{
+    padding-top: 50px;
     text-align: center;
 }
  a{
@@ -34,6 +38,7 @@
 }
 hr{
     border-width: 2px;
+    border-color: #C8C2AE;
 }
 .section {
     margin-top: 30px;
